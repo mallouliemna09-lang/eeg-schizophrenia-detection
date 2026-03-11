@@ -198,15 +198,25 @@ It achieved an overall **F1-score around 0.88–0.89**, although some misclassif
 This project requires the following Python libraries:
 
 numpy
+
 pandas
+
 scipy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 mne
+
 joblib
+
 emd
+
 EMD-signal
+
 tensorflow
 
 ## Installation
