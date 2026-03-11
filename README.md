@@ -223,7 +223,7 @@ tensorflow
 
 Clone the repository:
 
-git clone https://github.com/your-username/eeg-schizophrenia-detection.git
+git clone https://github.com/mallouliemna09-lang/eeg-schizophrenia-detection.git
 cd eeg-schizophrenia-detection
 
 Create a Python environment (recommended):
